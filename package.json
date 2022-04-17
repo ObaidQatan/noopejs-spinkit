@@ -14,6 +14,14 @@
     "component",
     "css"
   ],
-  "author": "Obaid Qatan",
-  "license": "ISC"
+  "author": "noopejs",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ObaidQatan/noopejs-spinkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ObaidQatan/noopejs-spinkit/issues"
+  },
+  "homepage": "https://github.com/ObaidQatan/noopejs-spinkit#readme"
 }
